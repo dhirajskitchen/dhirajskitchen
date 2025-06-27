@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhiraj</h1>
 <h3 align="center">
+<h1 align="center">Full-Stack Developer | AI Engineer | Data Science Enthusiast</h1>
 
 Passionate about building scalable web applications, diving into AI/ML, and extracting insights from data. Always learning and experimenting with cutting-edge tech.</h3>
 
